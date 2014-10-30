@@ -1,4 +1,4 @@
 Kv
 ==
 
-** TODO: Add description **
+** Demo code for My Elixir and OTP talk **
